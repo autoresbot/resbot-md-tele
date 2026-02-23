@@ -113,15 +113,12 @@ async function processMessage(bot, messageInfo) {
       logMessage();
     }
 
-    // ─── Handle Destination ────────────────────
+    // ─── Handle Destination (Global Setting) ───
     if (
       (config.bot_destination.toLowerCase() === 'private' && isGroup) ||
       (config.bot_destination.toLowerCase() === 'group' && !isGroup)
     ) {
-      if (!isOwnerUsers) {
-        logWithTime('SYSTEM', `Destination handle only - ${config.bot_destination} chat`);
-        return;
-      }
+      return;
     }
 
     // ─── Cari command yang cocok di plugins ────
