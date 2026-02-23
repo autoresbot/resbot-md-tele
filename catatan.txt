@@ -1,0 +1,15 @@
+# Agar bot bisa suport prefix . # 
+
+✅ Solusi: Matikan Privacy Mode via BotFather
+Kamu perlu menonaktifkan Group Privacy Mode di BotFather:
+
+1. Buka chat dengan @BotFather di Telegram
+2. Ketik /mybots
+3. Pilih bot kamu (@resbot_mdtele_bot)
+4. Pilih Bot Settings
+5. Pilih Group Privacy
+6. Klik Turn off
+
+Setelah itu, bot akan menerima semua pesan di grup, termasuk .ping, #menu, dll.
+
+⚠️ Catatan: Setelah mengubah pengaturan ini, kamu mungkin perlu remove dan add ulang bot dari grup agar perubahan berlaku.

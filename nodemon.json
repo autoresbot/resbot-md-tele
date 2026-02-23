@@ -1,0 +1,5 @@
+{
+  "watch": ["index.js", "config.js", "strings.js", "autoresbot.js", "plugins/", "lib/", "handle/"],
+  "ext": "js",
+  "ignore": ["node_modules/", "tmp/", "logs/", "database/", "*.json", "*.txt", "*.log"]
+}

@@ -1,0 +1,16 @@
+/*
+╔══════════════════════════════════════════════╗
+║          🤖 RESBOT TELEGRAM                  ║
+╠══════════════════════════════════════════════╣
+║ 📦 Version    : 1.0.0                       ║
+║ 👨‍💻 Developer  : Azhari Creative             ║
+║ 🌐 Website    : https://autoresbot.com      ║
+║ 📡 Platform   : Telegram Bot API            ║
+║ 💻 GitHub     : github.com/autoresbot       ║
+╚══════════════════════════════════════════════╝
+
+📌 Migrasi dari WhatsApp Bot (Baileys) ke Telegram Bot API
+   untuk stabilitas dan keandalan jangka panjang.
+
+🔗 https://autoresbot.com
+*/
